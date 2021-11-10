@@ -3,14 +3,16 @@
 Phase 1 Project Movie Analysis  Uranus
 
 Authors :
+
 Mellissa Valle: www.linkedin.com/in/mellissa-valle-94604819b
 Samantha Nasti: https://www.linkedin.com/in/samanthanasti/
-Crystal Gould Perrott https://www.linkedin.com/in/crystalgouldperrott/  
-Overview
+Crystal Gould: Perrott https://www.linkedin.com/in/crystalgouldperrott/  
+
+## Overview
 The purpose of this analysis is to identify opportunities and generate recommendations for Microsoft Studios in anticipation of their new film production company.
 Since Microsoft has no prior experience in film production this analysis serves to create a strategy for success utilizing market data. To gain this insight we will use data from IMDB, and The Numbers to find trends in genre, finance, and talent.
  
-Data Used
+## Data Used
 Data used for this project was sourced from IMDB, and The Numbers.
 IMDB contains descriptive information about thousands of movies. Such as year released, genre, ratings, and title. IMDB also contains descriptive information about thousands of people in the film industry. 
 The Numbers contains financial data of movies sorted by title, release date, and insights on budget and gross earnings.
@@ -21,7 +23,7 @@ Clean and merge multiple dataframes to produce a single comprehensive dataFrame 
 
 
 
-Recommendations:
+## Recommendations:
 1) Produce Documentaries
 Gaps in the Market
 
@@ -42,7 +44,7 @@ Directors have a strong impact on ROI
 Take a holistic approach to hiring.. This list is generated from only ROI (%)
  Directors with strong ROI from the last 5 years.
 
-Conclusions
+## Conclusions
 1- Produce Documentary
 Profitable
 Well reviewed
@@ -52,9 +54,9 @@ Enter the Documentary market competitively with a budget similar or better to co
 3- Hire Talent With a Strong History
 Documentaries Hire directors with a strong history of high ratings in Documentaries 
 
-For More Information
+## For More Information
 
-
+```
 ├── zippedData
 │   ├── Combo_Notebook_Draft.ipynb
 │   ├── imdb.title.ratings.csv.gz
@@ -66,7 +68,7 @@ For More Information
 ├── README.md
 ├── presentation.pdf
 └── notebook.ipynb
-
+```
 
 
 
