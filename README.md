@@ -1,3 +1,4 @@
+![Microsoft](https://i.blogs.es/e9b4c6/microsoftstudios/1366_2000.jpg)
 # MovieAnalysis
 
 Phase 1 Project Movie Analysis  Uranus
@@ -5,7 +6,9 @@ Phase 1 Project Movie Analysis  Uranus
 Authors :
 
 Mellissa Valle: www.linkedin.com/in/mellissa-valle-94604819b
+
 Samantha Nasti: https://www.linkedin.com/in/samanthanasti/
+
 Crystal Gould: Perrott https://www.linkedin.com/in/crystalgouldperrott/  
 
 ## Overview
