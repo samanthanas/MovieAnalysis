@@ -3,7 +3,7 @@
 
 Phase 1 Project Movie Analysis  Uranus
 
-Authors :
+Authors
 
 Mellissa Valle: www.linkedin.com/in/mellissa-valle-94604819b
 
@@ -25,7 +25,6 @@ Data Preparation
 Clean and merge multiple dataframes to produce a single comprehensive dataFrame that will contain all necessary information for the analysis.
 
 
-
 ## Recommendations:
 1) Produce Documentaries
 Gaps in the Market
@@ -39,7 +38,6 @@ Critical Reception
 2) How to finance Documentaries
 Positive relationship between budget and earnings
 
-
 Budgets of Different Genres
 
 3) Who to hire
@@ -48,12 +46,15 @@ Take a holistic approach to hiring.. This list is generated from only ROI (%)
  Directors with strong ROI from the last 5 years.
 
 ## Conclusions
+
 1- Produce Documentary
 Profitable
 Well reviewed
 Aligned with Microsoft’s Information Technology brand
+
 2- Set Production Budget 
 Enter the Documentary market competitively with a budget similar or better to competitors.
+
 3- Hire Talent With a Strong History
 Documentaries Hire directors with a strong history of high ratings in Documentaries 
 
